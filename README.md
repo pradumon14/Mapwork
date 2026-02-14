@@ -4,8 +4,8 @@
 > **Interactive Geography for the Modern Student**  
 > *Turning rote memorization into visual exploration.*
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![React](https://img.shields.io/badge/React-19-blue)
+![License](https://img.shields.io/badge/license-blue.svg)
+![React](https://img.shields.io/badge/React-18-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 
 ## 📖 The Origin Story
