@@ -56,7 +56,7 @@ This tool reduced a 10-hour manual task into a 30-minute rapid-fire session, ens
 
 ## 🛠️ Tech Stack
 
-*   **Frontend:** React 19
+*   **Frontend:** React 18
 *   **Language:** TypeScript
 *   **Styling:** CSS Modules & Glassmorphism UI
 *   **Graphics:** Inline SVG Manipulation
@@ -68,7 +68,7 @@ This tool reduced a 10-hour manual task into a 30-minute rapid-fire session, ens
 2.  Install dependencies:
     ```bash
     npm install
-    ```8
+    ```
 3.  Run the development server:
     ```bash
     npm run dev
